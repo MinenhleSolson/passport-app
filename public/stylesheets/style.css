@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: white;
+}
+h1{
+  color: rgb(255, 166, 0);
+}
+
+#register{
+  background-color: rgb(95, 114, 104);
+  border-radius: 10px;
+}
